@@ -1,0 +1,2 @@
+# state_management_notes
+state_fundaments_details
